@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Netflix Clone
+Clone da Netflix criado com video do youtube: https://www.youtube.com/watch?v=mqUN4N2q4qY
+Nesse clone foi usando Next.js, Tailwindcss, Prisma e Mongodb
 
 ## Getting Started
 

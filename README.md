@@ -1,5 +1,6 @@
 # Netflix Clone
 Clone da Netflix criado com video do youtube: https://www.youtube.com/watch?v=mqUN4N2q4qY
+
 Nesse clone foi usando Next.js, Tailwindcss, Prisma e Mongodb
 
 ## Getting Started

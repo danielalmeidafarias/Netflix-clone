@@ -3,6 +3,8 @@ Clone da Netflix criado com video do youtube: https://www.youtube.com/watch?v=mq
 
 Nesse clone foi usando Next.js, Tailwindcss, Prisma e Mongodb
 
+Deploy feito na versel: https://netflix-clone-eight-pearl-72.vercel.app/auth
+
 ## Getting Started
 
 First, run the development server:
